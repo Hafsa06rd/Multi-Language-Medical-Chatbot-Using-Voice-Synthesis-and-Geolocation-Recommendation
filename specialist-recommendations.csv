@@ -1,0 +1,46 @@
+Symptom,Disease,Specialist Recommended
+Pain in chest,Myocardial Infarction,Cardiologist
+Abdominal pain,Gastroenteritis,Gastroenterologist
+"Fever, cough, fatigue",Influenza,General Practitioner
+Difficulty breathing,Asthma,Pulmonologist
+Back pain,Herniated Disc,Orthopedic Surgeon
+"Headache, nausea",Migraine,Neurologist
+Joint pain,Rheumatoid Arthritis,Rheumatologist
+Shortness of breath,Chronic Obstructive Pulmonary Disease (COPD),Pulmonologist
+"Vomiting, diarrhea",Gastrointestinal Infection,Gastroenterologist
+"Chest pain, dizziness",Angina,Cardiologist
+"Eye pain, blurred vision",Glaucoma,Ophthalmologist
+Abdominal bloating,Irritable Bowel Syndrome (IBS),Gastroenterologist
+Skin rash,Psoriasis,Dermatologist
+Persistent cough,Pneumonia,Pulmonologist
+"Fatigue, fever, sore throat",Mononucleosis,General Practitioner
+"Numbness, tingling",Multiple Sclerosis,Neurologist
+"Swelling in legs, fatigue",Heart Failure,Cardiologist
+Difficulty swallowing,Stroke,Neurologist
+"Chest tightness, sweating",Angina,Cardiologist
+Painful urination,Urinary Tract Infection (UTI),Urologist
+"Night sweats, weight loss",Tuberculosis,Pulmonologist
+Painful red joints,Gout,Rheumatologist
+"Loss of appetite, nausea",Hepatitis,Gastroenterologist
+Pain in the neck or back,Spinal Stenosis,Orthopedic Surgeon
+"Fainting, dizziness",Hypotension,Cardiologist
+"Bleeding gums, weakness",Leukemia,Hematologist
+"Rapid heart rate, dizziness",Arrhythmia,Cardiologist
+"Hot flashes, irregular period",Menopause,Gynecologist
+"Skin discoloration, bruising",Vitamin K Deficiency,Hematologist
+"Nausea, vomiting, headache",Concussion,Neurologist
+Painful bowel movements,Crohn's Disease,Gastroenterologist
+"Anxiety, racing thoughts",Panic Disorder,Psychologist
+"Memory loss, confusion",Alzheimer's Disease,Neurologist
+"Sudden weight gain, dry skin",Hypothyroidism,Endocrinologist
+"Abnormal heartbeat, fatigue",Hyperthyroidism,Endocrinologist
+"Severe abdominal pain, fever",Appendicitis,General Surgeon
+"Painful muscles, fatigue",Fibromyalgia,Rheumatologist
+"Cough, fever, body aches",Pneumonia,Pulmonologist
+"Vision loss, headache",Optic Neuritis,Ophthalmologist
+"Leg pain, redness, swelling",Deep Vein Thrombosis (DVT),Vascular Surgeon
+"Hoarseness, sore throat",Laryngitis,Otolaryngologist
+"Weakness, numbness in arm",Carpal Tunnel Syndrome,Neurologist
+Blood in stool,Colon Cancer,Gastroenterologist
+"Painful joints, swelling",Lupus,Rheumatologist
+"Abnormal heartbeat, dizziness",Atrial Fibrillation,Cardiologist
