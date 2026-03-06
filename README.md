@@ -170,5 +170,5 @@ streamlit run app.py
 
 ##  License
 
-This project is released for educational and research purposes.
+> This project is released for educational and research purposes.
 ---
