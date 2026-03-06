@@ -4,6 +4,20 @@
 
 ---
 
+##  Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Key Features](#-key-features)
+- [Architecture & How It Works](#️-architecture--how-it-works)
+- [Technologies Used](#️-technologies-used)
+- [Getting Started](#-getting-started)
+- [Usage Tips](#-usage-tips)
+- [Medical Disclaimer](#️-medical-disclaimer)
+- [Future Work](#-future-work)
+- [License](#-license)
+
+---
+
 ##  Project Overview
 
 This project is a conversational medical chatbot that allows users to describe their symptoms — via text or voice — and receive structured medical analysis, urgency assessments, specialist referrals, and actionable recommendations. It combines a local medical knowledge base with optional AI enhancement via the **Google Gemini API** (`gemini-1.5-flash`), and supports **7 languages** with audio response synthesis.
