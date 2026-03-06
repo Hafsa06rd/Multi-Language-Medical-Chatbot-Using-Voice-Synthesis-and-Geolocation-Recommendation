@@ -1,0 +1,9 @@
+streamlit
+spacy
+transformers
+pyttsx3
+SpeechRecognition
+deep-translator
+pyaudio
+numpy
+torch
