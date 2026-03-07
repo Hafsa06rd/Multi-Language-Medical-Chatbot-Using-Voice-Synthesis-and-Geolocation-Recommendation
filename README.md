@@ -186,3 +186,7 @@ streamlit run app.py
 
 > This project is released for educational and research purposes.
 ---
+
+## Note from me :)
+> This project was built as a portfolio project exploring the intersection of AI, multilingual NLP, and healthcare accessibility. If you find this project useful, have suggestions, or want to contribute, feel free to explore !!
+-----
